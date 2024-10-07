@@ -15,4 +15,4 @@ IT IS DUAL HOOKED!!!!! REMOVE THIS!!!
 STEALERIUM IS DUALHOOKED, THIS MEANS ALL INFO OBTAINED BY STEALERIUM WILL ALSO BE SENT TO THE STEALERIUM CREATORS EMAIL! YOU CAN SEE IT HERE WITH HIS API KEY!!
 
 
-AC.py is newest script to obtain all stream data and save it to json file
+Stream.py is newest script to obtain all stream data and save it to json file
